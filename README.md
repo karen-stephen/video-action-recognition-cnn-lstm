@@ -24,4 +24,3 @@ Video → Frame Sampling → ResNet18 Feature Extraction → LSTM Temporal Model
 - torchvision
 - OpenCV
 - NumPy
-- Google Colab
